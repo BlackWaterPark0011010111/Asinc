@@ -56,11 +56,17 @@ You have a JSON file input.json with the following content:
 If you want to filter data where "name" equals "Harry Potter" and save the result to output.json, you need to run:
 
 
+
 ![scnd](https://github.com/BlackWaterPark0011010111/Asinc/blob/main/assets/sort.png)
 
 
 
+
 ***`(first, enter the filename of the processing script) python filter_json.py (then specify the file from which the key/value is taken) input.json (specify the file where the result should be saved) output.json (and the filter itself) name "Harry Potter"`***
+
+
+
+
 ![first](https://github.com/BlackWaterPark0011010111/Asinc/blob/main/assets/results.png)
 
 
