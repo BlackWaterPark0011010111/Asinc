@@ -1,6 +1,6 @@
 # JSON Data Filter
 
-**JSON Data Filter** — is an asynchronous Python script designed to filter data in a JSON file based on a specified key-value pair and save the filtered data to a new JSON file.
+**JSON Data Filter** - is an asynchronous Python script designed to filter data in a JSON file based on a specified key-value pair and save the filtered data to a new JSON file.
 
 This tool is useful for extracting specific records from large JSON datasets.
 
@@ -23,10 +23,10 @@ This tool is useful for extracting specific records from large JSON datasets.
 
 To use the script, you need to provide four arguments:
 
-input_file — The path to the input JSON file.
-output_file — The path where the filtered data will be saved.
-key — The key in the JSON objects that will be used for filtering.
-value — The value that will be used for filtering.
+input_file - The path to the input JSON file.
+output_file - The path where the filtered data will be saved.
+key - The key in the JSON objects that will be used for filtering.
+value - The value that will be used for filtering.
 
 - **Example**
 You have a JSON file input.json with the following content:
